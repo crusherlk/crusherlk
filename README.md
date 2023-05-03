@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Pankaja Chalaru</h1>
 
 *   💻  Front-end Developer
-*   🌍  based in Sri Lanka 🇱🇰 
-*   🧠  Currently learning **React, Next.js**
-*   🤝  I'm open to collaborating on interesting projects as a developer
+*   🌍  Based in Sri Lanka 🇱🇰 
+*   🧠  Currently learning **React, Next.js**
+*   🤝  I'm open to collaborating on interesting projects as a developer
 *   📫  Contact me via <a href="mailto:pchalaru@gmail.com">email</a>
 
 
@@ -37,6 +37,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/>
   </a> &nbsp;
 </p>
+
 
 ### Socials
 <p align="left">
