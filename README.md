@@ -2,7 +2,7 @@
 
 *   💻  Front-end Developer
 *   🌍  Based in Sri Lanka 🇱🇰 
-*   🧠  Currently learning **React, Next.js**
+*   🧠  Currently learning **React, Flutter**
 *   🤝  I'm open to collaborating on interesting projects as a developer
 *   📫  Contact me via <a href="mailto:pchalaru@gmail.com">email</a>
 
