@@ -2,10 +2,12 @@ Hi 👋, I'm Pankaja Chalaru
 =======================================================================================================================================
 Frontend Developer
 ------------------
-* 🌍  I'm based in Colombo, Sri Lanka
-* ✉️  You can contact me at [pchalaru@gmail.com](mailto:pchalaru@gmail.com)
-* 🧠  I'm learning React, Flutter
-* 🤝  I'm open to collaborating on interesting Projects
+*   🌍  I'm based in Colombo, Sri Lanka
+*   🖥️  See my portfolio at [crusherlk.vercel.app](http://crusherlk.vercel.app/)
+*   ✉️  You can contact me at [pchalaru@gmail.com](mailto:pchalaru@gmail.com)
+*   🚀  I'm currently working on [my portfolio](http://crusherlk.vercel.app/)
+*   🧠  I'm learning React & Flutter
+*   🤝  I'm open to collaborating on interesting projects
 
 ### Skills
 
