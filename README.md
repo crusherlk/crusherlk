@@ -5,7 +5,7 @@ Frontend Developer
 *   🌍  I'm based in Colombo, Sri Lanka
 *   🖥️  See my portfolio at [crusherlk.vercel.app](http://crusherlk.vercel.app/)
 *   ✉️  You can contact me at [pchalaru@gmail.com](mailto:pchalaru@gmail.com)
-*   🚀  I'm currently working on [my portfolio](http://crusherlk.vercel.app/)
+*   🚀  I'm currently working on a radio app
 *   🧠  I'm learning React & Flutter
 *   🤝  I'm open to collaborating on interesting projects
 
