@@ -5,7 +5,7 @@ Frontend Developer
 *   🌍  I'm based in Colombo, Sri Lanka
 *   🖥️  See my portfolio at [crusherlk.vercel.app](http://crusherlk.vercel.app/)
 *   ✉️  You can contact me at [pchalaru@gmail.com](mailto:pchalaru@gmail.com)
-*   🚀  I'm currently working on GoTravel website's UI, Before I worked on [cinema-world🎬](https://movieworldapp.vercel.app) 
+*   🚀  I'm currently working on [GoTravel 🌍✈](https://gotravelapp.vercel.app) 
 *   🧠  I'm learning React & Flutter
 *   🤝  I'm open to collaborating on interesting projects
 
