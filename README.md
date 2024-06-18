@@ -5,8 +5,8 @@ Frontend Developer
 *   🌍  I'm based in Colombo, Sri Lanka
 *   🖥️  See my portfolio at [crusherlk.vercel.app](http://crusherlk.vercel.app/)
 *   ✉️  You can contact me at [pchalaru@gmail.com](mailto:pchalaru@gmail.com)
-*   🚀  I'm currently working on personal projects. 
-*   🧠  I'm learning Redux❄
+*   🚀  I'm currently working @Codezilla.lk. 
+*   🧠  I'm learning Redux❄..
 *   🤝  I'm open to collaborating on interesting projects
 
 ### Skills
