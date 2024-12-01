@@ -1,16 +1,20 @@
-Hi 👋, I'm Pankaja Chalaru
+Hi 👋, My name is Pankaja Chalaru
 =======================================================================================================================================
-Frontend Developer
-------------------
-*   🌍  I'm based in Colombo, Sri Lanka
-*   🖥️  See my portfolio at [crusherlk.vercel.app](http://crusherlk.vercel.app/)
+
+🌏 I'm a fullstack developer based in Colombo, Sri Lanka.
+<br/>
+
+*   🖥️  See my portfolio at [crusherlk.vercel.app](https://crusherlk.vercel.app/)
 *   ✉️  You can contact me at [pchalaru@gmail.com](mailto:pchalaru@gmail.com)
 *   🚀  I'm currently working @Codezilla.lk
-*   🧠  I'm learning Redux❄..
 *   🤝  I'm open to collaborating on interesting projects
 
 ### Skills
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,express,moongo)](https://crusherlk.vercel.app/) 
+<br/>
+
+<!--
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -38,29 +42,11 @@ Frontend Developer
   </a> &nbsp;
 </p>
 
+-->
+
 ### Socials
 <p align="left">
   <a href="https://www.linkedin.com/in/crusherlk" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-  </a> &nbsp;
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </p>
-
-
-
-<!--
-### Hi there 👋
-
-
-**crusherlk/crusherlk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
