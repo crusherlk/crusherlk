@@ -1,4 +1,4 @@
-Hi 👋, My name is Pankaja Chalaru
+Hey👋, I'm Pankaja
 =======================================================================================================================================
 
 🌏 I'm a fullstack developer based in Colombo, Sri Lanka.
