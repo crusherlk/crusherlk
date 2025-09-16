@@ -11,7 +11,7 @@ Hey👋, I'm Pankaja
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,express,moongo)](https://crusherlk.vercel.app/) 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,moongo)](https://crusherlk.vercel.app/) 
 <br/>
 
 <!--
