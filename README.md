@@ -7,7 +7,7 @@ Hey👋, I'm Pankaja
 *   🖥️  See my portfolio at [crusherlk.vercel.app](https://crusherlk.vercel.app/)
 *   ✉️  You can contact me at [pchalaru@gmail.com](mailto:pchalaru@gmail.com)
 *   🚀  I'm working @codezilla.lk
-*   🤝  I'm open to collaborating on interesting projects
+*   🤝  I'm open collaborating on interesting projects
 
 ### Skills
 
