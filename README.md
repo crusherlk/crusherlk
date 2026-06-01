@@ -1,12 +1,12 @@
 Hey👋, I'm Pankaja
 =======================================================================================================================================
 
-🌏 Full-stack developer based in Colombo, Sri Lanka.
+🌏 Software Engineer based in Colombo, Sri Lanka.
 <br/>
 
 *   🖥️  See my portfolio at [crusherlk.vercel.app](https://crusherlk.vercel.app/)
 *   ✉️  You can contact me at [pchalaru@gmail.com](mailto:pchalaru@gmail.com)
-*   🚀  I'm working @codezilla.lk
+*   🚀  I'm learning ai
 *   🤝  I'm open collaborating on interesting projects
 
 ### Skills
