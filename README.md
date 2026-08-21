@@ -21,6 +21,6 @@ Open to collaborate on interesting projects if I'm not gaming so.. hit me up.
 <br/>
 <br/>
 
-Tech stack I usually make cool stuff,
+Tech stack I usually make cool stuff with,
 
 [![icons](https://go-skill-icons.vercel.app/api/icons?i=nextjs,react,typescript,tailwindcss,drizzle,postgresql)](https://crusherlk.vercel.app/)
