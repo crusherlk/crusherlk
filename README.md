@@ -1,6 +1,9 @@
-Hey there👋,
+###Hey there👋,
+
 I'm Pankaja, a software engineer based in Sri Lanka.
+
 I mostly work on web development stuff - React, Typescript and Tailwind for puff up ugly html
+
 Sometimes I use Figma to sketch a lil design before I tell chatgpt to write stuff for me.
 
 *   🖥️  See my portfolio at [crusherlk.vercel.app](https://crusherlk.vercel.app/)
