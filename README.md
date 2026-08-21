@@ -2,7 +2,9 @@
 
 I'm Pankaja, a software engineer based in Sri Lanka.
 
-If an idea pops into my head, Most probably I'll build and park it here.
+
+If an idea pops into my head, most probably I'll build and park it here.
+
 
 I mostly work on web development stuff - React, Typescript and Tailwind to puff up ugly html.
 
