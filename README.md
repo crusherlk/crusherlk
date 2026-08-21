@@ -1,17 +1,20 @@
 ### Hey there👋,
 
 I'm Pankaja, a software engineer based in Sri Lanka.
-
-
+<br/>
+<br/>
 If an idea pops into my head, most probably I'll build and park it here.
-
-
+<br/>
+<br/>
 I mostly work on web development stuff - React, Typescript and Tailwind to puff up ugly html.
-
+<br/>
+<br/>
 Sometimes I use Figma to sketch a lil design before I tell chatgpt to write stuff for me.
-
+<br/>
+<br/>
 I'm learning how to do ai stuff right now so I'm cool right?
-
+<br/>
+<br/>
 Open to collaborate on interesting projects if I'm not gaming so.. hit me up.
 
 Tech stack I use to make cool stuff,
