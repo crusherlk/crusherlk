@@ -15,7 +15,6 @@ I'm learning how to do ai stuff these days. I'm cool right?
 Open to collaborate on interesting projects if I'm not gaming so.. hit me up.
 <br/>
 <br/>
-Tech stack I use to make cool stuff,
+Tech stack I usually make cool stuff,
 
-<!-- [![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,express,postgres)](https://crusherlk.vercel.app/) -->
-[![icons](https://go-skill-icons.vercel.app/api/icons?i=nextjs,react,typescript,tailwindcss,drizzle,postgresql)](https://crusherlk.vercel.app/) 
+[![icons](https://go-skill-icons.vercel.app/api/icons?i=nextjs,react,typescript,tailwindcss,drizzle,postgresql)](https://crusherlk.vercel.app/)
