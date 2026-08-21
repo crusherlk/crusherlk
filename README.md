@@ -7,7 +7,6 @@ If an idea pops into my head, most probably I'll build and park it here.
 <br/>
 <br/>
 <br/>
-<br/>
 
 I mostly work on web development stuff - React, Typescript and Tailwind to puff up ugly html.
 
@@ -16,13 +15,11 @@ Sometimes I use Figma to sketch a lil design before I tell chatgpt to write stuf
 <br/>
 <br/>
 <br/>
-<br/>
 
 I'm learning how to do ai stuff these days. I'm cool right?
 
 Open to collaborate on interesting projects if I'm not gaming so.. hit me up.
 
-<br/>
 <br/>
 <br/>
 <br/>
